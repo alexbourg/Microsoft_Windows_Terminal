@@ -1,9 +1,10 @@
 # Microsoft_Windows_Terminal
  Silent installer for the new MS Windows Terminal
 
-### Supported OS
+## Supported OS
 Windows 10 build 1903
 
+<br>
 
 ### To Install
 ```
