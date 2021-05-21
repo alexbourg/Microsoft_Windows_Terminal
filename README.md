@@ -9,12 +9,12 @@ Windows 10 build 1903
 <br>
 
 ### To Install
-```
+```cmd
 start /w .\WindowsTerminal_1.8.1092.0_Installer.exe /S
 ```
 
 
 ### To uninstall
-```
+```cmd
 start /w msiexec /x {41133477-1E0D-4CDB-B5A9-5AC84FA07608} /qn
 ```
