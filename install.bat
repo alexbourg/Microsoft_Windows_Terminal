@@ -1,0 +1,1 @@
+start /w .\src\WindowsTerminal_1.8.1092.0_Installer.exe /S
